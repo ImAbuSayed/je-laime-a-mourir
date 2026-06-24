@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/je-laime-a-mourir/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Je L'aime À Mourir](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/je-laime-a-mourir/) |
+| **Get License** | [Obtain a Music License for Je L'aime À Mourir](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/je-laime-a-mourir/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> T'es la reine de la nuit, baby, monte dans ma ride
+> Sous les néons de Paris, y a plus rien qui nous guide
+> Un regard dans le rétro, et ton charme me désarme
+> Ton allure est chic, tu fais sonner l'alarme
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
